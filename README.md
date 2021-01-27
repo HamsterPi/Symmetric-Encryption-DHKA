@@ -1,4 +1,5 @@
 Assignment 1: Symmetric Encryption Using Diffie-Hellman Key Agreement
+
 The aim of this assignment is to perform symmetric encryption using the block cipher AES. Before this encryption can be done, a key must be exchanged with the receiver of the message (me); this will be done using Diffie-Hellman key agreement. The values which you need to know for this exchange are as follows:
 
 The prime modulus p is the following 1024-bit prime (given in hexadecimal):
